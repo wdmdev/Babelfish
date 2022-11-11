@@ -404,3 +404,10 @@ $RECYCLE.BIN/
 
 ######## Custom ##########
 Data/p*
+Data/Data.zip
+# Don't take model files, they are too big to version control
+Models/**/*.pth
+# Files for DTU HPC
+submit.sh
+*.err
+*.out

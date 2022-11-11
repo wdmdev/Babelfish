@@ -1,11 +1,11 @@
 base_setup:
-	python -m venv env; \
+	python3 -m venv env; \
 	source env/bin/activate; \
-	pip install -r requirements.txt; \
-	python base_setup.py; \
+	python3 -m pip install --no-cache-dir -r requirements.txt; \
+	python3 base_setup.py; \
 	deactivate
 
 train:
 	source env/bin/activate; \
-	python train.py --config_path Configs/config.yml; \
+	python3 train.py --config_path Configs/config.yml; \
 	deactivate
