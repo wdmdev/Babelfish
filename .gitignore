@@ -407,7 +407,10 @@ Data/p*
 Data/Data.zip
 # Don't take model files, they are too big to version control
 Models/**/*.pth
+Models/**/*.zip
+Vocoder/
 # Files for DTU HPC
 submit.sh
 *.err
 *.out
+jupyter_run.sh
