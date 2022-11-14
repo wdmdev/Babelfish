@@ -1,7 +1,9 @@
 base_setup:
-	python3 -m venv env; \
+	if [ ! -d "env" ]; then \
+		python3 -m venv env; \
+		python3 -m pip install --no-cache-dir -r requirements.txt; \
+	fi; \
 	source env/bin/activate; \
-	python3 -m pip install --no-cache-dir -r requirements.txt; \
 	python3 base_setup.py; \
 	deactivate
 

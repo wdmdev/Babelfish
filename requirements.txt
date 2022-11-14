@@ -9,3 +9,6 @@ click
 librosa
 tensorboard
 gdown
+ipykernel
+notebook
+jupyter
