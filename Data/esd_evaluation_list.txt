@@ -1,1000 +1,1000 @@
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000351.wav|0
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000701.wav|0
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000001.wav|0
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001051.wav|0
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001401.wav|0
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000352.wav|1
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000702.wav|1
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000002.wav|1
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001052.wav|1
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001402.wav|1
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000353.wav|2
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000703.wav|2
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000003.wav|2
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001053.wav|2
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001403.wav|2
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000354.wav|3
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000704.wav|3
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000004.wav|3
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001054.wav|3
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001404.wav|3
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000355.wav|4
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000705.wav|4
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000005.wav|4
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001055.wav|4
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001405.wav|4
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000356.wav|5
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000706.wav|5
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000006.wav|5
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001056.wav|5
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001406.wav|5
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000357.wav|6
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000707.wav|6
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000007.wav|6
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001057.wav|6
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001407.wav|6
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000358.wav|7
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000708.wav|7
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000008.wav|7
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001058.wav|7
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001408.wav|7
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000359.wav|8
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000709.wav|8
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000009.wav|8
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001059.wav|8
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001409.wav|8
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000360.wav|9
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000710.wav|9
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000010.wav|9
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001060.wav|9
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001410.wav|9
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000361.wav|10
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000711.wav|10
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000011.wav|10
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001061.wav|10
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001411.wav|10
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000362.wav|11
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000712.wav|11
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000012.wav|11
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001062.wav|11
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001412.wav|11
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000363.wav|12
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000713.wav|12
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000013.wav|12
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001063.wav|12
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001413.wav|12
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000364.wav|13
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000714.wav|13
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000014.wav|13
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001064.wav|13
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001414.wav|13
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000365.wav|14
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000715.wav|14
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000015.wav|14
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001065.wav|14
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001415.wav|14
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000366.wav|15
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000716.wav|15
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000016.wav|15
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001066.wav|15
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001416.wav|15
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000367.wav|16
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000717.wav|16
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000017.wav|16
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001067.wav|16
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001417.wav|16
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000368.wav|17
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000718.wav|17
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000018.wav|17
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001068.wav|17
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001418.wav|17
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000369.wav|18
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000719.wav|18
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000019.wav|18
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001069.wav|18
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001419.wav|18
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Angry/evaluation/0017_000370.wav|19
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Happy/evaluation/0017_000720.wav|19
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Neutral/evaluation/0017_000020.wav|19
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Sad/evaluation/0017_001070.wav|19
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0017/Surprise/evaluation/0017_001420.wav|19
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000351.wav|20
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000701.wav|20
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000001.wav|20
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001051.wav|20
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001401.wav|20
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000352.wav|21
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000702.wav|21
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000002.wav|21
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001052.wav|21
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001402.wav|21
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000353.wav|22
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000703.wav|22
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000003.wav|22
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001053.wav|22
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001403.wav|22
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000354.wav|23
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000704.wav|23
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000004.wav|23
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001054.wav|23
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001404.wav|23
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000355.wav|24
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000705.wav|24
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000005.wav|24
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001055.wav|24
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001405.wav|24
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000356.wav|25
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000706.wav|25
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000006.wav|25
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001056.wav|25
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001406.wav|25
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000357.wav|26
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000707.wav|26
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000007.wav|26
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001057.wav|26
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001407.wav|26
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000358.wav|27
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000708.wav|27
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000008.wav|27
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001058.wav|27
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001408.wav|27
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000359.wav|28
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000709.wav|28
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000009.wav|28
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001059.wav|28
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001409.wav|28
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000360.wav|29
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000710.wav|29
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000010.wav|29
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001060.wav|29
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001410.wav|29
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000361.wav|30
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000711.wav|30
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000011.wav|30
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001061.wav|30
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001411.wav|30
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000362.wav|31
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000712.wav|31
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000012.wav|31
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001062.wav|31
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001412.wav|31
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000363.wav|32
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000713.wav|32
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000013.wav|32
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001063.wav|32
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001413.wav|32
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000364.wav|33
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000714.wav|33
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000014.wav|33
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001064.wav|33
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001414.wav|33
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000365.wav|34
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000715.wav|34
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000015.wav|34
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001065.wav|34
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001415.wav|34
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000366.wav|35
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000716.wav|35
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000016.wav|35
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001066.wav|35
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001416.wav|35
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000367.wav|36
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000717.wav|36
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000017.wav|36
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001067.wav|36
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001417.wav|36
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000368.wav|37
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000718.wav|37
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000018.wav|37
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001068.wav|37
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001418.wav|37
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000369.wav|38
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000719.wav|38
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000019.wav|38
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001069.wav|38
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001419.wav|38
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Angry/evaluation/0011_000370.wav|39
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Happy/evaluation/0011_000720.wav|39
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Neutral/evaluation/0011_000020.wav|39
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Sad/evaluation/0011_001070.wav|39
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0011/Surprise/evaluation/0011_001420.wav|39
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000351.wav|40
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000701.wav|40
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000001.wav|40
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001051.wav|40
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001401.wav|40
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000352.wav|41
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000702.wav|41
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000002.wav|41
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001052.wav|41
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001402.wav|41
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000353.wav|42
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000703.wav|42
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000003.wav|42
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001053.wav|42
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001403.wav|42
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000354.wav|43
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000704.wav|43
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000004.wav|43
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001054.wav|43
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001404.wav|43
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000355.wav|44
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000705.wav|44
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000005.wav|44
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001055.wav|44
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001405.wav|44
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000356.wav|45
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000706.wav|45
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000006.wav|45
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001056.wav|45
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001406.wav|45
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000357.wav|46
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000707.wav|46
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000007.wav|46
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001057.wav|46
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001407.wav|46
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000358.wav|47
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000708.wav|47
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000008.wav|47
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001058.wav|47
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001408.wav|47
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000359.wav|48
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000709.wav|48
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000009.wav|48
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001059.wav|48
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001409.wav|48
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000360.wav|49
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000710.wav|49
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000010.wav|49
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001060.wav|49
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001410.wav|49
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000361.wav|50
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000711.wav|50
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000011.wav|50
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001061.wav|50
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001411.wav|50
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000362.wav|51
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000712.wav|51
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000012.wav|51
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001062.wav|51
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001412.wav|51
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000363.wav|52
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000713.wav|52
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000013.wav|52
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001063.wav|52
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001413.wav|52
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000364.wav|53
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000714.wav|53
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000014.wav|53
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001064.wav|53
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001414.wav|53
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000365.wav|54
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000715.wav|54
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000015.wav|54
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001065.wav|54
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001415.wav|54
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000366.wav|55
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000716.wav|55
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000016.wav|55
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001066.wav|55
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001416.wav|55
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000367.wav|56
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000717.wav|56
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000017.wav|56
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001067.wav|56
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001417.wav|56
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000368.wav|57
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000718.wav|57
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000018.wav|57
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001068.wav|57
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001418.wav|57
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000369.wav|58
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000719.wav|58
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000019.wav|58
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001069.wav|58
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001419.wav|58
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Angry/evaluation/0019_000370.wav|59
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Happy/evaluation/0019_000720.wav|59
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Neutral/evaluation/0019_000020.wav|59
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Sad/evaluation/0019_001070.wav|59
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0019/Surprise/evaluation/0019_001420.wav|59
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000351.wav|60
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000701.wav|60
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000001.wav|60
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001051.wav|60
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001401.wav|60
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000352.wav|61
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000702.wav|61
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000002.wav|61
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001052.wav|61
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001402.wav|61
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000353.wav|62
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000703.wav|62
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000003.wav|62
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001053.wav|62
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001403.wav|62
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000354.wav|63
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000704.wav|63
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000004.wav|63
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001054.wav|63
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001404.wav|63
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000355.wav|64
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000705.wav|64
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000005.wav|64
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001055.wav|64
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001405.wav|64
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000356.wav|65
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000706.wav|65
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000006.wav|65
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001056.wav|65
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001406.wav|65
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000357.wav|66
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000707.wav|66
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000007.wav|66
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001057.wav|66
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001407.wav|66
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000358.wav|67
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000708.wav|67
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000008.wav|67
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001058.wav|67
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001408.wav|67
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000359.wav|68
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000709.wav|68
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000009.wav|68
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001059.wav|68
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001409.wav|68
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000360.wav|69
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000710.wav|69
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000010.wav|69
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001060.wav|69
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001410.wav|69
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000361.wav|70
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000711.wav|70
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000011.wav|70
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001061.wav|70
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001411.wav|70
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000362.wav|71
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000712.wav|71
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000012.wav|71
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001062.wav|71
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001412.wav|71
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000363.wav|72
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000713.wav|72
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000013.wav|72
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001063.wav|72
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001413.wav|72
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000364.wav|73
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000714.wav|73
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000014.wav|73
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001064.wav|73
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001414.wav|73
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000365.wav|74
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000715.wav|74
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000015.wav|74
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001065.wav|74
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001415.wav|74
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000366.wav|75
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000716.wav|75
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000016.wav|75
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001066.wav|75
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001416.wav|75
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000367.wav|76
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000717.wav|76
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000017.wav|76
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001067.wav|76
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001417.wav|76
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000368.wav|77
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000718.wav|77
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000018.wav|77
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001068.wav|77
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001418.wav|77
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000369.wav|78
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000719.wav|78
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000019.wav|78
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001069.wav|78
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001419.wav|78
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Angry/evaluation/0015_000370.wav|79
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Happy/evaluation/0015_000720.wav|79
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Neutral/evaluation/0015_000020.wav|79
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Sad/evaluation/0015_001070.wav|79
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0015/Surprise/evaluation/0015_001420.wav|79
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000351.wav|80
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000701.wav|80
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000001.wav|80
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001051.wav|80
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001401.wav|80
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000352.wav|81
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000702.wav|81
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000002.wav|81
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001052.wav|81
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001402.wav|81
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000353.wav|82
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000703.wav|82
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000003.wav|82
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001053.wav|82
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001403.wav|82
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000354.wav|83
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000704.wav|83
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000004.wav|83
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001054.wav|83
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001404.wav|83
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000355.wav|84
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000705.wav|84
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000005.wav|84
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001055.wav|84
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001405.wav|84
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000356.wav|85
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000706.wav|85
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000006.wav|85
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001056.wav|85
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001406.wav|85
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000357.wav|86
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000707.wav|86
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000007.wav|86
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001057.wav|86
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001407.wav|86
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000358.wav|87
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000708.wav|87
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000008.wav|87
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001058.wav|87
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001408.wav|87
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000359.wav|88
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000709.wav|88
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000009.wav|88
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001059.wav|88
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001409.wav|88
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000360.wav|89
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000710.wav|89
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000010.wav|89
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001060.wav|89
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001410.wav|89
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000361.wav|90
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000711.wav|90
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000011.wav|90
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001061.wav|90
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001411.wav|90
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000362.wav|91
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000712.wav|91
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000012.wav|91
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001062.wav|91
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001412.wav|91
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000363.wav|92
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000713.wav|92
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000013.wav|92
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001063.wav|92
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001413.wav|92
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000364.wav|93
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000714.wav|93
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000014.wav|93
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001064.wav|93
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001414.wav|93
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000365.wav|94
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000715.wav|94
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000015.wav|94
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001065.wav|94
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001415.wav|94
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000366.wav|95
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000716.wav|95
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000016.wav|95
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001066.wav|95
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001416.wav|95
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000367.wav|96
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000717.wav|96
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000017.wav|96
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001067.wav|96
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001417.wav|96
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000368.wav|97
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000718.wav|97
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000018.wav|97
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001068.wav|97
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001418.wav|97
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000369.wav|98
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000719.wav|98
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000019.wav|98
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001069.wav|98
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001419.wav|98
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Angry/evaluation/0020_000370.wav|99
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Happy/evaluation/0020_000720.wav|99
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Neutral/evaluation/0020_000020.wav|99
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Sad/evaluation/0020_001070.wav|99
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0020/Surprise/evaluation/0020_001420.wav|99
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000351.wav|100
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000701.wav|100
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000001.wav|100
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001051.wav|100
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001401.wav|100
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000352.wav|101
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000702.wav|101
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000002.wav|101
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001052.wav|101
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001402.wav|101
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000353.wav|102
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000703.wav|102
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000003.wav|102
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001053.wav|102
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001403.wav|102
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000354.wav|103
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000704.wav|103
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000004.wav|103
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001054.wav|103
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001404.wav|103
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000355.wav|104
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000705.wav|104
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000005.wav|104
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001055.wav|104
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001405.wav|104
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000356.wav|105
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000706.wav|105
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000006.wav|105
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001056.wav|105
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001406.wav|105
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000357.wav|106
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000707.wav|106
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000007.wav|106
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001057.wav|106
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001407.wav|106
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000358.wav|107
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000708.wav|107
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000008.wav|107
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001058.wav|107
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001408.wav|107
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000359.wav|108
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000709.wav|108
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000009.wav|108
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001059.wav|108
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001409.wav|108
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000360.wav|109
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000710.wav|109
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000010.wav|109
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001060.wav|109
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001410.wav|109
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000361.wav|110
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000711.wav|110
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000011.wav|110
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001061.wav|110
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001411.wav|110
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000362.wav|111
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000712.wav|111
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000012.wav|111
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001062.wav|111
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001412.wav|111
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000363.wav|112
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000713.wav|112
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000013.wav|112
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001063.wav|112
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001413.wav|112
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000364.wav|113
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000714.wav|113
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000014.wav|113
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001064.wav|113
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001414.wav|113
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000365.wav|114
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000715.wav|114
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000015.wav|114
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001065.wav|114
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001415.wav|114
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000366.wav|115
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000716.wav|115
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000016.wav|115
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001066.wav|115
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001416.wav|115
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000367.wav|116
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000717.wav|116
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000017.wav|116
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001067.wav|116
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001417.wav|116
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000368.wav|117
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000718.wav|117
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000018.wav|117
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001068.wav|117
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001418.wav|117
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000369.wav|118
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000719.wav|118
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000019.wav|118
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001069.wav|118
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001419.wav|118
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Angry/evaluation/0013_000370.wav|119
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Happy/evaluation/0013_000720.wav|119
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Neutral/evaluation/0013_000020.wav|119
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Sad/evaluation/0013_001070.wav|119
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0013/Surprise/evaluation/0013_001420.wav|119
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000351.wav|120
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000701.wav|120
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000001.wav|120
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001051.wav|120
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001401.wav|120
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000352.wav|121
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000702.wav|121
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000002.wav|121
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001052.wav|121
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001402.wav|121
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000353.wav|122
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000703.wav|122
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000003.wav|122
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001053.wav|122
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001403.wav|122
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000354.wav|123
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000704.wav|123
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000004.wav|123
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001054.wav|123
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001404.wav|123
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000355.wav|124
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000705.wav|124
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000005.wav|124
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001055.wav|124
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001405.wav|124
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000356.wav|125
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000706.wav|125
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000006.wav|125
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001056.wav|125
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001406.wav|125
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000357.wav|126
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000707.wav|126
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000007.wav|126
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001057.wav|126
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001407.wav|126
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000358.wav|127
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000708.wav|127
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000008.wav|127
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001058.wav|127
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001408.wav|127
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000359.wav|128
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000709.wav|128
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000009.wav|128
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001059.wav|128
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001409.wav|128
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000360.wav|129
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000710.wav|129
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000010.wav|129
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001060.wav|129
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001410.wav|129
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000361.wav|130
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000711.wav|130
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000011.wav|130
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001061.wav|130
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001411.wav|130
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000362.wav|131
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000712.wav|131
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000012.wav|131
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001062.wav|131
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001412.wav|131
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000363.wav|132
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000713.wav|132
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000013.wav|132
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001063.wav|132
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001413.wav|132
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000364.wav|133
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000714.wav|133
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000014.wav|133
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001064.wav|133
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001414.wav|133
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000365.wav|134
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000715.wav|134
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000015.wav|134
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001065.wav|134
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001415.wav|134
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000366.wav|135
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000716.wav|135
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000016.wav|135
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001066.wav|135
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001416.wav|135
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000367.wav|136
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000717.wav|136
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000017.wav|136
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001067.wav|136
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001417.wav|136
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000368.wav|137
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000718.wav|137
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000018.wav|137
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001068.wav|137
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001418.wav|137
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000369.wav|138
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000719.wav|138
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000019.wav|138
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001069.wav|138
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001419.wav|138
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Angry/evaluation/0016_000370.wav|139
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Happy/evaluation/0016_000720.wav|139
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Neutral/evaluation/0016_000020.wav|139
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Sad/evaluation/0016_001070.wav|139
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0016/Surprise/evaluation/0016_001420.wav|139
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000351.wav|140
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000701.wav|140
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000001.wav|140
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001051.wav|140
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001401.wav|140
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000352.wav|141
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000702.wav|141
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000002.wav|141
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001052.wav|141
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001402.wav|141
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000353.wav|142
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000703.wav|142
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000003.wav|142
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001053.wav|142
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001403.wav|142
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000354.wav|143
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000704.wav|143
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000004.wav|143
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001054.wav|143
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001404.wav|143
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000355.wav|144
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000705.wav|144
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000005.wav|144
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001055.wav|144
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001405.wav|144
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000356.wav|145
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000706.wav|145
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000006.wav|145
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001056.wav|145
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001406.wav|145
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000357.wav|146
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000707.wav|146
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000007.wav|146
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001057.wav|146
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001407.wav|146
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000358.wav|147
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000708.wav|147
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000008.wav|147
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001058.wav|147
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001408.wav|147
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000359.wav|148
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000709.wav|148
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000009.wav|148
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001059.wav|148
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001409.wav|148
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000360.wav|149
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000710.wav|149
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000010.wav|149
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001060.wav|149
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001410.wav|149
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000361.wav|150
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000711.wav|150
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000011.wav|150
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001061.wav|150
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001411.wav|150
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000362.wav|151
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000712.wav|151
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000012.wav|151
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001062.wav|151
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001412.wav|151
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000363.wav|152
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000713.wav|152
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000013.wav|152
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001063.wav|152
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001413.wav|152
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000364.wav|153
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000714.wav|153
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000014.wav|153
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001064.wav|153
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001414.wav|153
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000365.wav|154
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000715.wav|154
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000015.wav|154
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001065.wav|154
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001415.wav|154
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000366.wav|155
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000716.wav|155
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000016.wav|155
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001066.wav|155
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001416.wav|155
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000367.wav|156
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000717.wav|156
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000017.wav|156
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001067.wav|156
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001417.wav|156
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000368.wav|157
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000718.wav|157
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000018.wav|157
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001068.wav|157
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001418.wav|157
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000369.wav|158
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000719.wav|158
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000019.wav|158
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001069.wav|158
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001419.wav|158
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Angry/evaluation/0014_000370.wav|159
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Happy/evaluation/0014_000720.wav|159
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Neutral/evaluation/0014_000020.wav|159
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Sad/evaluation/0014_001070.wav|159
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0014/Surprise/evaluation/0014_001420.wav|159
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000351.wav|160
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000701.wav|160
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000001.wav|160
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001051.wav|160
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001401.wav|160
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000352.wav|161
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000702.wav|161
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000002.wav|161
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001052.wav|161
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001402.wav|161
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000353.wav|162
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000703.wav|162
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000003.wav|162
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001053.wav|162
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001403.wav|162
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000354.wav|163
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000704.wav|163
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000004.wav|163
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001054.wav|163
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001404.wav|163
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000355.wav|164
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000705.wav|164
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000005.wav|164
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001055.wav|164
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001405.wav|164
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000356.wav|165
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000706.wav|165
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000006.wav|165
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001056.wav|165
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001406.wav|165
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000357.wav|166
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000707.wav|166
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000007.wav|166
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001057.wav|166
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001407.wav|166
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000358.wav|167
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000708.wav|167
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000008.wav|167
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001058.wav|167
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001408.wav|167
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000359.wav|168
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000709.wav|168
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000009.wav|168
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001059.wav|168
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001409.wav|168
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000360.wav|169
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000710.wav|169
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000010.wav|169
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001060.wav|169
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001410.wav|169
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000361.wav|170
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000711.wav|170
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000011.wav|170
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001061.wav|170
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001411.wav|170
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000362.wav|171
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000712.wav|171
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000012.wav|171
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001062.wav|171
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001412.wav|171
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000363.wav|172
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000713.wav|172
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000013.wav|172
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001063.wav|172
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001413.wav|172
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000364.wav|173
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000714.wav|173
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000014.wav|173
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001064.wav|173
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001414.wav|173
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000365.wav|174
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000715.wav|174
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000015.wav|174
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001065.wav|174
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001415.wav|174
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000366.wav|175
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000716.wav|175
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000016.wav|175
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001066.wav|175
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001416.wav|175
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000367.wav|176
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000717.wav|176
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000017.wav|176
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001067.wav|176
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001417.wav|176
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000368.wav|177
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000718.wav|177
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000018.wav|177
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001068.wav|177
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001418.wav|177
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000369.wav|178
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000719.wav|178
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000019.wav|178
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001069.wav|178
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001419.wav|178
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Angry/evaluation/0018_000370.wav|179
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Happy/evaluation/0018_000720.wav|179
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Neutral/evaluation/0018_000020.wav|179
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Sad/evaluation/0018_001070.wav|179
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0018/Surprise/evaluation/0018_001420.wav|179
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000351.wav|180
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000701.wav|180
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000001.wav|180
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001051.wav|180
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001401.wav|180
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000352.wav|181
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000702.wav|181
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000002.wav|181
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001052.wav|181
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001402.wav|181
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000353.wav|182
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000703.wav|182
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000003.wav|182
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001053.wav|182
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001403.wav|182
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000354.wav|183
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000704.wav|183
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000004.wav|183
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001054.wav|183
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001404.wav|183
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000355.wav|184
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000705.wav|184
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000005.wav|184
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001055.wav|184
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001405.wav|184
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000356.wav|185
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000706.wav|185
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000006.wav|185
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001056.wav|185
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001406.wav|185
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000357.wav|186
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000707.wav|186
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000007.wav|186
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001057.wav|186
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001407.wav|186
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000358.wav|187
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000708.wav|187
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000008.wav|187
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001058.wav|187
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001408.wav|187
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000359.wav|188
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000709.wav|188
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000009.wav|188
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001059.wav|188
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001409.wav|188
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000360.wav|189
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000710.wav|189
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000010.wav|189
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001060.wav|189
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001410.wav|189
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000361.wav|190
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000711.wav|190
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000011.wav|190
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001061.wav|190
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001411.wav|190
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000362.wav|191
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000712.wav|191
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000012.wav|191
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001062.wav|191
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001412.wav|191
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000363.wav|192
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000713.wav|192
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000013.wav|192
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001063.wav|192
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001413.wav|192
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000364.wav|193
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000714.wav|193
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000014.wav|193
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001064.wav|193
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001414.wav|193
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000365.wav|194
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000715.wav|194
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000015.wav|194
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001065.wav|194
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001415.wav|194
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000366.wav|195
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000716.wav|195
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000016.wav|195
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001066.wav|195
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001416.wav|195
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000367.wav|196
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000717.wav|196
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000017.wav|196
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001067.wav|196
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001417.wav|196
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000368.wav|197
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000718.wav|197
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000018.wav|197
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001068.wav|197
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001418.wav|197
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000369.wav|198
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000719.wav|198
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000019.wav|198
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001069.wav|198
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001419.wav|198
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Angry/evaluation/0012_000370.wav|199
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Happy/evaluation/0012_000720.wav|199
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Neutral/evaluation/0012_000020.wav|199
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Sad/evaluation/0012_001070.wav|199
-/work1/s183921/StarGANv2-VC-emotion/Data/Emotional Speech Dataset (ESD)/0012/Surprise/evaluation/0012_001420.wav|199
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0017_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0011_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0019_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0015_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0020_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0013_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0016_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0014_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0018_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000362.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000355.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000352.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000359.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000366.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000358.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000367.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000370.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000365.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000351.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000361.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000356.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000357.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000369.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000354.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000368.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000353.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000364.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000363.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Angry/0012_000360.wav|0
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0017_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0011_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0019_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0015_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0020_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0013_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0016_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0014_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0018_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000715.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000709.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000702.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000704.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000718.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000711.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000716.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000707.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000720.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000717.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000710.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000703.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000713.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000714.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000708.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000712.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000706.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000719.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000705.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Happy/0012_000701.wav|1
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0017_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0011_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0019_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0015_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0020_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0013_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0016_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0014_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0018_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000004.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000017.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000014.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000001.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000015.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000002.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000012.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000019.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000010.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000011.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000018.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000009.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000020.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000013.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000003.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000016.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000006.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000008.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000007.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Neutral/0012_000005.wav|2
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0017_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0011_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0019_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0015_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0020_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0013_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0016_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0014_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0018_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001068.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001053.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001051.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001055.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001067.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001063.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001062.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001061.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001056.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001058.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001069.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001065.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001052.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001057.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001064.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001060.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001070.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001054.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001059.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Sad/0012_001066.wav|3
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0017_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0011_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0019_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0015_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0020_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0013_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0016_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0014_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001414.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0018_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001409.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001410.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001408.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001413.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001411.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001401.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001420.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001417.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001419.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001418.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001402.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001403.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001405.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001412.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001416.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001415.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001404.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001406.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001407.wav|4
+/work1/s183921/StarGANv2-VC-emotion/Data/ESD/Surprise/0012_001414.wav|4

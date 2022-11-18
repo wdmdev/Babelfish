@@ -40,7 +40,7 @@ class MelDataset(torch.utils.data.Dataset):
                  validation=False,
                  ):
 
-        _data_list = [l[:-1].split('|') for l in data_list]
+        _data_list = [l.split('|') for l in data_list]
         self.data_list = [(path, int(label)) for path, label in _data_list]
         self.data_list_per_class = {
             target: [(path, label) for path, label in self.data_list if label == target] \
