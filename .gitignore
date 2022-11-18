@@ -414,3 +414,4 @@ submit.sh
 *.err
 *.out
 jupyter_run.sh
+**/Emotional Speech Dataset (ESD)*
