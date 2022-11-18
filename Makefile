@@ -15,8 +15,8 @@ english_esd_setup:
 		python3 -m pip install --no-cache-dir -r requirements.txt; \
 	fi; \
 	source env/bin/activate; \
-	python3 esd_setup.py; \
-	python3 Data/make_esd_data_lists.py
+	python3 english_esd_setup.py; \
+	python3 Data/make_esd_data_lists.py; \
 	deactivate
 
 

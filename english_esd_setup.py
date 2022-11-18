@@ -1,4 +1,5 @@
 import os
+from tqdm import tqdm
 import shutil
 import zipfile
 import gdown
@@ -11,30 +12,35 @@ VOCODER_PATH = os.path.join(os.path.dirname(__file__))
 
 
 def is_valid_data():
-    if os.path.exists(DATA_PATH):
-        data_items = os.listdir(DATA_PATH)
-        if all([s in data_items for s in SPEAKERS]):
-            return True
-    
-    return False
+    return os.path.exists(os.path.join(DATA_PATH, 'Emotional Speech Dataset (ESD)'))
 
 def download_data(url):
     data_zip_path = os.path.join(DATA_PATH, 'Emotional Speech Dataset (ESD).zip')
 
     gdown.download(url, data_zip_path, quiet=False)
 
+    print('Extracting speaker data from .zip file...')
     with zipfile.ZipFile(data_zip_path, 'r') as zip:
-        zip.extractall(DATA_PATH)
+        for member in tqdm(zip.infolist(), desc='Extraction '):
+            try:
+                zip.extract(member, DATA_PATH)
+            except zipfile.error as e:
+                pass
 
     os.remove(data_zip_path)
+    print('Speaker files extracted')
 
     # Only speaker 0011 to 0020 are English speakers
     # We remove the rest
+    print('Selecting English speakers only...')
     unzipped_data_path = os.path.join(DATA_PATH, 'Emotional Speech Dataset (ESD)') 
     for f in os.listdir(unzipped_data_path):
-        if not f in SPEAKERS:
-            shutil.rmtree(os.path.join(unzipped_data_path, f))
-
+        if not any([f == s for s in SPEAKERS]):
+            f_path = os.path.join(unzipped_data_path, f)
+            if os.path.isdir(f_path):
+                shutil.rmtree(f_path)
+            else:
+                os.remove(f_path)
 
 
 def download_vocoder(url):
