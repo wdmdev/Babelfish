@@ -1,4 +1,4 @@
-log_dir: "Models/VCTK21"
+log_dir: "Models/ESD10"
 save_freq: 2
 device: "cuda"
 epochs: 150
@@ -7,8 +7,8 @@ pretrained_model: ""
 load_only_params: false
 fp16_run: true
 
-train_data: "Data/train_list.txt"
-val_data: "Data/val_list.txt"
+train_data: "Data/esd_train_list.txt"
+val_data: "Data/esd_evaluation_list.txt"
 
 F0_path: "Utils/JDC/bst.t7"
 ASR_config: "Utils/ASR/config.yml"
