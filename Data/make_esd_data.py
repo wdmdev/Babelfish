@@ -17,9 +17,11 @@ def create_list(list_type:str):
             emotion_path = os.path.join(speaker_path, emotion, list_type)
             emotion_output = os.path.join(OUTPUT_DIR, emotion)   
 
-            for emotion_speech in os.listdir(emotion_path):
+            for i, emotion_speech in enumerate(sorted(os.listdir(emotion_path))):
                 emotion_speech_path = os.path.join(emotion_path, emotion_speech)
-                emotion_out_path = os.path.join(emotion_output, emotion_speech)
+
+                new_emotion_speech = emotion_speech[:-4] + f'_{i}' + '.wav'
+                emotion_out_path = os.path.join(emotion_output, new_emotion_speech)
                 shutil.copy(emotion_speech_path, emotion_out_path)
 
                 speech_mappings.append('|'.join([emotion_out_path, str(emotion_id)]))

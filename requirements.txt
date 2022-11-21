@@ -13,3 +13,5 @@ ipykernel
 notebook
 jupyter
 tqdm
+setuptools
+filelock
