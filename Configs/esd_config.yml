@@ -1,4 +1,4 @@
-log_dir: "Models/ESD_21_11_2022"
+log_dir: "Models/ESD_Parallel"
 save_freq: 2
 device: "cuda"
 epochs: 150
