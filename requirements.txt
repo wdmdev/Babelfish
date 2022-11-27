@@ -15,3 +15,7 @@ jupyter
 tqdm
 setuptools
 filelock
+translate
+transformers
+gtts
+pydub

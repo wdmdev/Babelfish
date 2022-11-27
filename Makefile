@@ -37,3 +37,13 @@ esd_train:
 	source env/bin/activate; \
 	python3 train_esd.py --config_path Configs/esd_config.yml; \
 	deactivate
+
+babel_train:
+	source env/bin/activate; \
+	python3 train_babel.py --config_path Configs/babelfish_config.yml; \
+	deactivate
+
+babel_pretrain:
+	source env/bin/activate; \
+	python3 train_babel.py --config_path Configs/babelfish_config_pretrained.yml; \
+	deactivate
