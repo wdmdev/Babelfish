@@ -417,4 +417,6 @@ jupyter_run.sh
 **/Emotional Speech Dataset (ESD)*
 **/ESD
 *.wav
-**/Babelfish
+**/*Babelfish*
+**/pretrained_models
+Data/Test
