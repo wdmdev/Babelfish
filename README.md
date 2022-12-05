@@ -1,5 +1,5 @@
 # Fork of StarGANv2-VC
-This fork focuses on using StarGANv2-VC for Emotional Voice Conversion (EVC).
+This fork focuses on using StarGANv2-VC for language translation and Voice Conversion to preserve speaker characteristics in the translation.
 
 
 Below are the original authors and the description of StarGANv2-VC from the original repo: https://github.com/yl4579/StarGANv2-VC
